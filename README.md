@@ -28,11 +28,11 @@ It establishes authority, hierarchy, and canonical relationships among all subor
 
 ## Governance Principles
 
-1. Human Sovereignty — Final authority remains with Mr Parivar  
-2. Separation of Powers — Governance does not execute  
-3. Traceability — All actions traceable to canonical source  
-4. Non-Autonomy — Governance observes and constrains  
-5. Versioned Integrity — Public versioning and supersession
+- Human Sovereignty — Final authority remains with Mr Parivar  
+- Separation of Powers — Governance does not execute  
+- Traceability — All actions traceable to canonical source  
+- Non-Autonomy — Governance observes and constrains  
+- Versioned Integrity — Public versioning and supersession  
 
 ---
 
@@ -42,7 +42,7 @@ It establishes authority, hierarchy, and canonical relationships among all subor
 - Supervise AGI Guardian as observer layer  
 - Maintain ethical and decision integrity  
 - Establish canonical chain of proof  
-- Preserve legacy conceptual registries
+- Preserve legacy conceptual registries  
 
 ---
 
